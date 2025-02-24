@@ -1,4 +1,4 @@
-![banner](/assets/banner.png)
+![banner](/assets/bannerv2.png)
 
 > *"Simplifying Education, One Platform at a Time"*
 
